@@ -4,7 +4,7 @@ import pandas
 import folium
 
 #File keluaran dan file yang dibaca
-FILE='test.csv'
+FILE='train.csv'
 OUTPUTF='mapTaxi.html'
 
 #membuat yang mungcul beberapa kali menjadi sati kali
